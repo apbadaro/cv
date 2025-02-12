@@ -81,7 +81,7 @@ Visual Studio Code, IntelliJ IDEA
 
 ### **Languages**
 
-- **English**: C2 (Advanced) | [EFSET Certificate](https://cert.efset.org/X1pWgJ)
+- **English**: C2 (Advanced) - [EFSET Certificate](https://cert.efset.org/X1pWgJ)
 - **Portuguese**: Native
 
 ---
