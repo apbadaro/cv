@@ -3,7 +3,7 @@
 <img align="left" src="https://media.licdn.com/dms/image/v2/D4D03AQEQNTm21GJtIg/profile-displayphoto-shrink_200_200/B4DZWlh_ukG4Ac-/0/1742238907878?e=1748476800&v=beta&t=jsmQbQj_Up5_Vb0OpaELsn-5OXIS1vvOXmPs2r__x6Q" height="138"> 
 
 São Paulo, Brasil  
-📧 [Email](mailto:badaro_ap@proton.me) | 🔗 [LinkedIn](http://linkedin.com/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
+📧 [Email](mailto:badaro_ap@proton.me) | 🔗 [LinkedIn](http://linkedin.com/in/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
 
 ---
 
@@ -15,11 +15,11 @@ Profissional com 15 anos de experiência em tradução, legendagem e controle de
 
 ## **Experiência Profissional**  
 
-### **Tradutora, Legendadora e Especialista em Controle de Qualidade**  
+### **Tradutora e Revisora de Legendas EN<>PT-Br**  
 **Freelancer / Diversas Empresas**  
 *2010 - Presente*  
 
-- Realizo controle de qualidade e otimização de fluxo de trabalho para legendas de filmes, séries e conteúdos multimídia.  
+- Realizo o controle de qualidade de legendas para filmes, séries e conteúdos multimídia.    
 - Avalio e melhoro a saída de traduções automáticas para maior precisão e fluidez.  
 - Colaboro com equipes globais para garantir consistência e qualidade em diferentes tipos de conteúdo, seguindo as diretrizes dos clientes.  
 - Principais plataformas: Netflix, Amazon Prime, Disney+, HBO Max, Hulu via vendors.  
@@ -49,7 +49,7 @@ Profissional com 15 anos de experiência em tradução, legendagem e controle de
 ### **Certificações e Cursos**  
 
 - **CS50's Introduction to Programming with Python**  
-  Harvard University (edX) | *Em andamento*  | [📝 Repositório](https://github.com/apbadaro/cs50-python-pset-solutions)  
+  Harvard University (edX) | *Em andamento*   
 - **Bootcamp de Desenvolvimento Back-End com Java e Spring Boot**  
   Oracle + Alura | ✅ *Concluído - 2024*  
 - **Bootcamp de Desenvolvimento Back-End com Python e Django**  
