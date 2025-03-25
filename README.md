@@ -15,8 +15,6 @@ Este repositório serve como uma forma de demonstrar minha experiência e habili
 
 Sou tradutora audiovisual com experiência em legendagem e controle de qualidade para plataformas globais de mídia. Atualmente, estou em transição para a área de desenvolvimento de software, com foco em back-end.
 
-Acredito que esta plataforma é uma boa maneira de compartilhar minha experiência e o que estou aprendendo com a comunidade tech.
-
 ---
 ## Contato e LinkedIn
-[E-mail](mailto:badaro_ap@proton.me) | [LinkedIn](http://linkedin.com/apbadaro)
+[E-mail](mailto:badaro_ap@proton.me) | [LinkedIn](http://linkedin.com/in/apbadaro)
