@@ -3,7 +3,7 @@
 <img align="left" src="https://media.licdn.com/dms/image/v2/D4D03AQEQNTm21GJtIg/profile-displayphoto-shrink_200_200/B4DZWlh_ukG4Ac-/0/1742238907878?e=1748476800&v=beta&t=jsmQbQj_Up5_Vb0OpaELsn-5OXIS1vvOXmPs2r__x6Q" height="138"> 
 
 São Paulo, Brazil  
-📧 [Email](mailto:badaro_ap@proton.me) | 🔗 [LinkedIn](http://linkedin.com/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
+📧 [Email](mailto:badaro_ap@proton.me) | 🔗 [LinkedIn](http://linkedin.com/in/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
 
 --- 
 
@@ -19,7 +19,7 @@ I am a professional with 15 years of experience in translation, subtitling, and 
 **Freelancer / Various Companies**  
 *2010 - Present*  
 
-- Perform quality control and workflow optimization for subtitles of films, TV series, and multimedia content.  
+- Perform quality control for subtitles of films, TV series, and multimedia content.  
 - Evaluate and improve the output of machine translations for greater accuracy and fluency.  
 - Collaborate with global teams to ensure consistency and quality across various content types while adhering to client guidelines.  
 - Major platforms: Netflix, Amazon Prime, Disney+, HBO Max, Hulu via vendors.  
@@ -49,7 +49,7 @@ I am a professional with 15 years of experience in translation, subtitling, and 
 ### **Certifications and Courses**  
 
 - **CS50's Introduction to Programming with Python**  
-  Harvard University (edX) | *In Progress*  | [📝 repo](https://github.com/apbadaro/cs50-python-pset-solutions)  
+  Harvard University (edX) | *In Progress*  
 - **Back-End Development with Java and Spring Boot Bootcamp**  
   Oracle + Alura | ✅ *Completed - 2024*  
 - **Back-End Development with Python and Django Bootcamp**  
