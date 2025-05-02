@@ -77,13 +77,13 @@ I seek collaborative environments where I can apply my analytical mindset, learn
 ## Education & Technical Training
 
 **Technology in Systems Analysis and Development**  
-Descomplica University | 2025 – 2027 (in progress)  
+Centro Universitário Descomplica | 2025 – 2027 (in progress)  
 
 **Java, Spring Boot & DevOps Bootcamp**  
 Instituto Matera | Mar – Apr 2025  
 
 **Back-End Java & Spring Boot Bootcamp**  
-Oracle Next Education (ONE) | Jan – Jul 2024  
+Oracle Next Education (ONE) + Alura | Jan – Jul 2024  
 
 **Back-End Python & Django Bootcamp**  
 WoMakersCode | Jan – Apr 2024  
