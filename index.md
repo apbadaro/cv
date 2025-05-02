@@ -1,18 +1,18 @@
 # CV - Ana Paula Badaró
-**Tradutora e Revisora de Legendas EN <> PTBR | Aspirante a Desenvolvedora Backend**  
-*EN <> PTBR Subtitler & QCer | Aspiring Backend Developer*
+**Desenvolvedora Back-end Júnior | Java, Python & APIs REST | Em Transição de Carreira**  
+*Junior Back-end Developer | Java, Python & REST APIs | Career Transitioning*
 
-Você pode visualizar a versão em português ou em inglês do meu CV clicando nos links abaixo.  
-*You can view the Portuguese or English version of my CV by clicking the links below.*
-
----
-
-## **Em Português / In Portuguese**
-
-- [Versão em Português](cv-pt.md)
+Olá! Aqui você pode acessar meu currículo em português ou em inglês.  
+*Hello! Here you can access my résumé in either Portuguese or English.*
 
 ---
 
-## **In English / Em Inglês**
+## 📄 Versão em Português | Portuguese Version
 
-- [English Version](cv-en.md)
+- [Currículo em Português](cv-pt.md)
+
+---
+
+## 📄 English Version | Versão em Inglês
+
+- [View English Résumé](cv-en.md)
