@@ -3,91 +3,96 @@
 <img align="left" src="https://media.licdn.com/dms/image/v2/D4D03AQEQNTm21GJtIg/profile-displayphoto-shrink_200_200/B4DZWlh_ukG4Ac-/0/1742238907878?e=1748476800&v=beta&t=jsmQbQj_Up5_Vb0OpaELsn-5OXIS1vvOXmPs2r__x6Q" height="138"> 
 
 São Paulo, Brazil  
-📧 [Email](mailto:badaro_ap@proton.me) | 🔗 [LinkedIn](http://linkedin.com/in/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
+📧 [Email](mailto:apbadaro@icloud.com) | 🔗 [LinkedIn](http://linkedin.com/in/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
 
 --- 
 
-## **Professional Summary**  
+## Junior Back-end Developer | Career Transition
 
-I am a professional with 15 years of experience in translation, subtitling, and quality control for global media platforms. Currently, I am expanding my skills in **software development**, focusing on **back-end development** and technologies like **Python** and **Java**. I am seeking an opportunity for an **internship in Systems Analysis and Development**, where I can apply my technical knowledge and continue evolving my career in the **technology** field.  
-
----
-
-## **Professional Experience**  
-
-### **Freelance Translator, Subtitler, and Quality Control Specialist**  
-**Freelancer / Various Companies**  
-*2010 - Present*  
-
-- Perform quality control for subtitles of films, TV series, and multimedia content.  
-- Evaluate and improve the output of machine translations for greater accuracy and fluency.  
-- Collaborate with global teams to ensure consistency and quality across various content types while adhering to client guidelines.  
-- Major platforms: Netflix, Amazon Prime, Disney+, HBO Max, Hulu via vendors.  
-
-### **Back-End Development Projects**  
-
-- **Forum Hub with Spring Boot and PostgreSQL**  
-   Developed a forum application using **Spring Boot** and **PostgreSQL**, implementing a **REST API** architecture for efficient communication between front-end and back-end.  
-  [🔗 Project Link](https://github.com/apbadaro/ONE-Final-Challenge-Forum)  
-
-- **Animal Shelter with Django**  
-   Built a management system for an animal shelter using **Django**, **Bootstrap**, and **Python**. The system allows animal registration, adoptions, and integration with a relational database.  
-  [🔗 Project Link](https://github.com/apbadaro/ProjetoFinal_SquadAmeenahGuribFakim)  
-
-- **LiterAlura - Book Catalog**  
-   Developed a book catalog application using **Java**, **Spring Boot**, and **PostgreSQL**, with features for book registration, search, and organization.  
-  [🔗 Project Link](https://github.com/apbadaro/ONE-Challenge-LiterAlura)  
+Career changer transitioning into back-end development, bringing 15 years of experience in localization and QA for global digital platforms (Netflix, Disney+, Amazon Prime). Solid technical foundation in Python, Java, and RESTful APIs acquired through intensive bootcamps, with a strong focus on hands-on learning. Analytical mindset, clear communication, and fast adaptation to new technical challenges.
 
 ---
 
-## **Education and Training**  
+## Tech Stack
 
-### **🎓 Technologist in Systems Analysis and Development**  
-**Centro Universitário Descomplica UniAmérica**  
-*2025 - Present (In Progress)*  
+**Hands-on experience** gained through bootcamp projects, guided study, and technical challenges:
 
-### **Certifications and Courses**  
-
-- **CS50's Introduction to Programming with Python**  
-  Harvard University (edX) | *In Progress*  
-- **Back-End Development with Java and Spring Boot Bootcamp**  
-  Oracle + Alura | ✅ *Completed - 2024*  
-- **Back-End Development with Python and Django Bootcamp**  
-  WoMakersCode | ✅ *Completed - 2024*  
+- **Languages & Frameworks:** Java, Spring Boot, Maven, Python, Django, Flask, JavaScript, Node.js  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Concepts & Practices:** REST, layered architecture, JWT (basic), Agile methodologies (Scrum and Kanban)  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Insomnia, Postman  
 
 ---
 
-## **Technical Skills**  
+## Development Projects
 
-- **Programming Languages**: Python (basic), Java (fundamentals), JavaScript (beginner)  
-- **Frameworks and Technologies**: Django, Spring Boot, REST APIs, JWT  
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Version Control**: Git, GitHub  
-- **Methodologies**: Agile, Scrum, Kanban  
-- **Development Tools**: Visual Studio Code, IntelliJ IDEA  
+**Forum Hub** | *Java, Spring Boot, PostgreSQL, JWT*  
+RESTful API with authentication and access control for a forum platform.  
+- Implemented layered architecture (Controller, Service, Repository)  
+- JWT-based authentication and role-based access control  
+- Custom data validation and exception handling  
+- **Technologies:** Java 17, Spring Boot, Spring Security, PostgreSQL  
+- 🔗 [github.com/apbadaro/ONE-Final-Challenge-Forum](https://github.com/apbadaro/ONE-Final-Challenge-Forum)
+
+**Shelter Management System** | *Python, Django, Bootstrap*  
+Web application for managing animal shelters and pet adoption.  
+- Full CRUD using Django and PostgreSQL  
+- Authentication and role-based permissions  
+- Responsive frontend built with Bootstrap  
+- **Technologies:** Python, Django, PostgreSQL, Bootstrap  
+- 🔗 [github.com/apbadaro/ProjetoFinal_SquadAmeenahGuribFakim](https://github.com/apbadaro/ProjetoFinal_SquadAmeenahGuribFakim)
+
+**LiterAlura – Book Catalog API** | *Java, Spring Boot*  
+Microservice for managing a book catalog.  
+- Layered architecture with DTOs  
+- API documentation with Swagger  
+- **Technologies:** Java 17, Spring Boot, JPA/Hibernate, PostgreSQL  
+- 🔗 [github.com/apbadaro/ONE-Challenge-LiterAlura](https://github.com/apbadaro/ONE-Challenge-LiterAlura)
 
 ---
 
-## **Soft Skills**  
+## Professional Experience
 
-- **Teamwork**: Effective collaboration with global teams to ensure consistent and quality-driven solutions.  
-- **Decision Making**: Evaluating different options and risks, with a focus on choosing efficient and appropriate technical solutions.  
-- **Execution**: Focused on results, committed to deadlines, and delivering functional solutions.  
-- **Adaptability**: Quick to learn new technologies and adapt to fast-changing work environments.  
-- **Problem Solving**: Skilled in diagnosing technical issues and finding effective solutions to resolve them.  
+**Senior Localization & Quality Assurance Specialist**  
+*Freelance – Remote | 2010 – Present*  
+- Technical analysis and adaptation of over 10,000 minutes of digital content for global platforms  
+- Remote collaboration with international teams across 200+ timely delivered projects  
+- Developed analytical solutions to ensure consistency in large-scale deliveries  
+- Designed QA processes that cut final review time by 30%  
+- Created and maintained technical documentation systems for distributed teams  
+
+**Transferable Skills for Development:**  
+- Systematic analysis and structured problem-solving  
+- Extreme attention to technical detail  
+- Quick adaptation to new tools and workflows  
+- Effective communication within multidisciplinary teams  
+- Consistent on-time delivery in complex projects  
 
 ---
 
-## **Languages**  
+## Education
 
-- 🇺🇸 **English**: C2 (Advanced)  
-- 🇧🇷 **Portuguese**: Native  
+**Technologist Degree in Systems Analysis and Development**  
+Descomplica | 2025 – 2027 (in progress)
+
+**Instituto Matera**  
+Java, Spring + DevOps Bootcamp | Mar – Apr 2025
+
+**Oracle Next Education (ONE)**  
+Java and Spring Boot Backend Bootcamp | Jan – Jul 2024
+
+**WoMakersCode**  
+Python and Django Backend Bootcamp | Jan – Apr 2024  
 
 ---
 
-## **Achievements and Accomplishments**  
+## Languages
 
-- Delivered over 10,000 hours of subtitled content.  
-- Contributed to improving subtitle quality with a high level of client and platform satisfaction.  
-- Quickly learned new localization tools and workflows, including cloud-based tools and **AI-driven** workflows.  
-- Collaborated in the maintenance and updating of Key Names and Phrases (KNP), ensuring consistency and adherence to industry best practices.  
+- **English:** Fluent (C2)  
+- **Portuguese:** Native  
+
+---
+
+## Career Objective
+
+Looking for a junior back-end developer position where I can apply my analytical skills and quality-driven background to contribute to meaningful projects while further developing my technical expertise in a collaborative environment.
