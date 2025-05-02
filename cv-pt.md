@@ -77,7 +77,7 @@ Busco oportunidades em ambientes colaborativos onde possa aplicar minha capacida
 ## Educação e Formação Técnica
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas**  
-Descomplica | 2025 – 2027 (em andamento)  
+Centro Universitário Descomplica | 2025 – 2027 (em andamento)  
 
 **Bootcamp Java, Spring Boot e DevOps**  
 Instituto Matera | Março – Abril 2025  
