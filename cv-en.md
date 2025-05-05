@@ -76,8 +76,8 @@ I seek collaborative environments where I can apply my analytical mindset, learn
 
 ## Education & Technical Training
 
-**Technology in Systems Analysis and Development**  
-Centro Universitário Descomplica | 2025 – 2027 (in progress)  
+**Technologist Degree in Systems Analysis & Development**    
+Centro Universitário Descomplica | 2025 – 2027 *(in progress)*  
 
 **Java, Spring Boot & DevOps Bootcamp**  
 Instituto Matera | Mar – Apr 2025  
