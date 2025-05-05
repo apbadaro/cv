@@ -11,7 +11,7 @@ São Paulo, Brasil
 
 Profissional em transição para o desenvolvimento back-end, com formação técnica em Java, Spring Boot, Python e APIs RESTful por meio de bootcamps.  
 Trago 15 anos de experiência com análise técnica e controle de qualidade em projetos globais de mídia e streaming (Netflix, Disney+, Prime Video, Globoplay), aliando pensamento crítico, atenção a detalhes e alta performance sob pressão.  
-Busco oportunidades em ambientes colaborativos onde possa aplicar minha capacidade analítica, aprender com desafios reais e evoluir tecnicamente.
+Busco oportunidades em ambientes colaborativos onde possa aplicar minha capacidade analítica, aprender com desafios reais e evoluir tecnicamente.  
 
 ---
 
@@ -25,7 +25,7 @@ Busco oportunidades em ambientes colaborativos onde possa aplicar minha capacida
 
 ---
 
-## Projetos de Desenvolvimento de Software
+## Projetos de Desenvolvimento de Software  
 
 **API RESTful de Fórum com Autenticação (Fórum Hub)**  
 *Tecnologias:* Java, Spring Boot, PostgreSQL, JWT  
@@ -59,7 +59,7 @@ Busco oportunidades em ambientes colaborativos onde possa aplicar minha capacida
 - Localização de mais de 10.000 minutos de conteúdo para plataformas como Netflix, Disney+, Amazon e Globoplay  
 - Controle de qualidade linguístico em ambientes de alto padrão  
 - Pós-edição de traduções automáticas (MTPE) com foco em naturalidade e consistência  
-- Criação de glossários e manutenção de terminologia técnica  
+- Criação e manuntenção de glossários  
 - Comunicação fluida com equipes internacionais e gestão de prazos críticos  
 
 ---
@@ -76,8 +76,8 @@ Busco oportunidades em ambientes colaborativos onde possa aplicar minha capacida
 
 ## Educação e Formação Técnica
 
-**Tecnologia em Análise e Desenvolvimento de Sistemas**  
-Centro Universitário Descomplica | 2025 – 2027 (em andamento)  
+**Análise e Desenvolvimento de Sistemas**  
+Centro Universitário Descomplica | 2025 – 2027 *(em andamento)*  
 
 **Bootcamp Java, Spring Boot e DevOps**  
 Instituto Matera | Março – Abril 2025  
