@@ -1,6 +1,6 @@
 # Ana Paula Badaró   
 
-<img align="left" src="https://media.licdn.com/dms/image/v2/D4D03AQEQNTm21GJtIg/profile-displayphoto-shrink_200_200/B4DZWlh_ukG4Ac-/0/1742238907878?e=1748476800&v=beta&t=jsmQbQj_Up5_Vb0OpaELsn-5OXIS1vvOXmPs2r__x6Q" height="138"> 
+<img align="left" src="https://media.licdn.com/dms/image/v2/D4D03AQEQNTm21GJtIg/profile-displayphoto-shrink_400_400/B4DZWlh_ukG4Ak-/0/1742238907860?e=1754524800&v=beta&t=I2NeI8X6vYUo4YYzs8-lxsEGPswn0oTyJJLWuxMGihg" height="138"> 
 
 São Paulo, Brasil  
 📧 [Email](mailto:badaro_ap@proton.me) | 🔗 [LinkedIn](http://linkedin.com/in/apbadaro) | 🖥️ [GitHub](https://github.com/apbadaro)  
